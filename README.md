@@ -1,4 +1,4 @@
-# Privacy-Preserving-Data-Transformation
+# Privacy-Preserving Data Transformation
 
 Introduction:
 With the advent of social networks and our daily moving online, vast amount of information are uploaded, collected, and shared daily online without the knowledge of data owners. The holder of the data, e.g., an internet service provider, usually wants to analyze them and make them public for research purposes, commercial, statistical, or other purposes. This obviously raises concerns about privacy issues for data contributors. We need to employ methods such that the data can be used successfully for the intended purpose, as not only are the data vulnerable to leakages, but also to malicious and adversary inference by other parties. Therefore,  privacy-protection methods should be employed that allow data collectors and owners to control the types of information that can be inferred from their data.
